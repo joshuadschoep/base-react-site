@@ -1,0 +1,25 @@
+{
+    "short_name": "Base",
+    "name": "Base React Website",
+    "icons": [
+        {
+            "src": "https://assets.schoepproject.com/www/favicon.ico",
+            "sizes": "32x32 24x24 16x16",
+            "type": "image/x-icon"
+        },
+        {
+            "src": "https://assets.schoepproject.com/www/favicon128.png",
+            "type": "image/png",
+            "sizes": "128x128"
+        },
+        {
+            "src": "https://assets.schoepproject.com/www/favicon512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#ffffff",
+    "background_color": "#000000"
+}
